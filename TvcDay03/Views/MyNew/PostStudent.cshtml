@@ -1,0 +1,25 @@
+﻿@model TvcDay03.Models.Student
+@{
+}
+
+<form asp-controller="MyNew" asp-action="postStudent" method="post">
+    <div>
+        <label asp-for="Id"></label>
+        <input asp-for="Id" />
+    </div>
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+    </div>
+    <div>
+        <label asp-for="Age"></label>
+        <input asp-for="Age" />
+    </div>
+    <div>
+        <label asp-for="IsActive"></label>
+        <input asp-for="IsActive" type="checkbox" />
+    </div>
+    <div>
+        <button type="submit">Post Student</button>
+    </div>
+</form>

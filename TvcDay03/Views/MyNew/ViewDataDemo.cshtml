@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "ViewDataDemo";
+    var stu = ViewBag.Student;
+}
+
+<h1>ViewDataDemo</h1>
+<h1> Welcome, @ViewData["name"]</h1>
+<h3> Time: @ViewData["time"]</h3>
+
+<h1>
+    @stu.Id
+    @stu.Name
+</h1>
+

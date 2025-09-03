@@ -1,0 +1,25 @@
+﻿@model BTT1.Models.Student
+@{
+    ViewData["Title"] = "CreateStudent";
+}
+
+<h1>CreateStudent</h1>
+
+<form asp-controller="Student" asp-action="CreateStudent" method="post">
+
+    <div>
+        <label asp-for="Id"> </label>
+        <input asp-for="Id" />
+    </div>
+    <div>
+        <label asp-for="Name"> </label>
+        <input asp-for="Name" />
+    </div>
+    <div>
+        <label asp-for="Gender"></label>
+        <select asp-for="Gender" asp-items="Html.GetEnumSelectList<BTT1.Models.Gender>()"></select>
+    </div>
+    <div>
+        <button type="submit">Post</button>
+    </div>
+</form>

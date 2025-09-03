@@ -1,0 +1,26 @@
+﻿@model List<TestDemo.Models.ProductModel>
+@{
+    ViewData["Title"] = "Trang chủ";
+}
+<div class="row m-1">
+    <div class="col-3">
+        @await Html.PartialAsync("_CategoryMenu")
+    </div>
+    <div class="col-9">
+        <div class="h4 text-center bg-secondary text-white w-100 py-xl-2 rounded">Sản phẩm mới nhất</div>
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-3 m-auto w-100">
+                @foreach (var item in Model)
+                {
+                    <div class="col-sm-4 mb-3">
+                        <div class="card h-100">
+                            <img src="@item.ImgURL" class="img-fluid mt-2"/>
+                            <div class="card-body text-center">
+                                <p class="h5">@item.Name</p>
+                            </div>
+                        </div>
+                    </div>
+            }
+        </div>
+        @await Component.InvokeAsync("HotProduct")
+    </div>
+</div>

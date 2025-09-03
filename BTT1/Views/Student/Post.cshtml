@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model BTT1.Models.Student
+@{
+}
+<form asp-controller="Student" asp-action="CreateStudent" method="post">
+    
+    <div>
+        <label asp-for="Id"> </label>
+        <input asp-for="Id" />
+    </div>
+    <div>
+        <label asp-for="Name"> </label>
+        <input asp-for="Name"/>
+    </div>
+    <div>
+        <label asp-for="Gender"></label>
+        <select asp-for="Gender" asp-items="Html.GetEnumSelectList<BTT1.Models.Gender>()"></select>
+    </div>
+    <div>
+        <button type="submit">Post</button>
+    </div>
+</form>

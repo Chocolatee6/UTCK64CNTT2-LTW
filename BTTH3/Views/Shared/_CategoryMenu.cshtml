@@ -1,0 +1,18 @@
+﻿@model IEnumerable<BTTH3.Models.Category>
+
+<div class="card mb-3">
+    <div class="card-header fw-bold">Danh mục sản phẩm</div>
+    <ul class="list-group list-group-flush">
+        @foreach (var c in Model)
+        {
+            <li class="list-group-item">@c.Name</li>
+        }
+    </ul>
+</div>
+
+<div class="card mt-3">
+    <img class="card-img-top" src="https://via.placeholder.com/240x320" alt="Banner" />
+    <div class="card-body">
+        <p class="card-text small">Khuyến mãi hấp dẫn!</p>
+    </div>
+</div>
