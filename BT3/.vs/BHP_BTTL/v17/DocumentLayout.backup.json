@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\laptrinhweb\\bhp_231230867-b\u00E0i 3\\bhd_bttl\\viewcomponents\\productsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|solutionrelative:bhd_bttl\\viewcomponents\\productsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\laptrinhweb\\bhp_231230867-b\u00E0i 3\\bhd_bttl\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|solutionrelative:bhd_bttl\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\laptrinhweb\\bhp_231230867-b\u00E0i 3\\bhd_bttl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|solutionrelative:bhd_bttl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\laptrinhweb\\bhp_231230867-b\u00E0i 3\\bhd_bttl\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|solutionrelative:bhd_bttl\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\laptrinhweb\\bhp_231230867-b\u00E0i 3\\bhd_bttl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|solutionrelative:bhd_bttl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\laptrinhweb\\bhp_231230867-b\u00E0i 3\\bhd_bttl\\views\\shared\\default_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|solutionrelative:bhd_bttl\\views\\shared\\default_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\laptrinhweb\\bhp_231230867-b\u00E0i 3\\bhd_bttl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|solutionrelative:bhd_bttl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\laptrinhweb\\bhp_231230867-b\u00E0i 3\\bhd_bttl\\views\\shared\\producttypes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|solutionrelative:bhd_bttl\\views\\shared\\producttypes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\laptrinhweb\\bhp_231230867-b\u00E0i 3\\bhd_bttl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|solutionrelative:bhd_bttl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\laptrinhweb\\bhp_231230867-b\u00E0i 3\\bhd_bttl\\views\\shared\\components\\products\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D28261B-A283-4D55-9788-7B13E1D7CD9C}|BHD_BTTL\\BHP_BTTL.csproj|solutionrelative:bhd_bttl\\views\\shared\\components\\products\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BHD_BTTL\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BHD_BTTL\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T08:04:47.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BHD_BTTL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BHD_BTTL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T08:04:34.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\ViewComponents\\ProductsViewComponent.cs",
+              "RelativeDocumentMoniker": "BHD_BTTL\\ViewComponents\\ProductsViewComponent.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\ViewComponents\\ProductsViewComponent.cs",
+              "RelativeToolTip": "BHD_BTTL\\ViewComponents\\ProductsViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T08:03:11.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BHD_BTTL\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Models\\Product.cs",
+              "RelativeToolTip": "BHD_BTTL\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:45:26.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BHD_BTTL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BHD_BTTL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T12:35:15.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Views\\Shared\\Default_Layout.cshtml",
+              "RelativeDocumentMoniker": "BHD_BTTL\\Views\\Shared\\Default_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Views\\Shared\\Default_Layout.cshtml",
+              "RelativeToolTip": "BHD_BTTL\\Views\\Shared\\Default_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T12:17:33.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BHD_BTTL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BHD_BTTL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T12:14:55.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductTypes.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Views\\Shared\\ProductTypes.cshtml",
+              "RelativeDocumentMoniker": "BHD_BTTL\\Views\\Shared\\ProductTypes.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Views\\Shared\\ProductTypes.cshtml",
+              "RelativeToolTip": "BHD_BTTL\\Views\\Shared\\ProductTypes.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBZwAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T12:14:26.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BHD_BTTL\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BHD_BTTL\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:52:40.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Views\\Shared\\Components\\Products\\Default.cshtml",
+              "RelativeDocumentMoniker": "BHD_BTTL\\Views\\Shared\\Components\\Products\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\laptrinhweb\\BHP_231230867-B\u00E0i 3\\BHD_BTTL\\Views\\Shared\\Components\\Products\\Default.cshtml",
+              "RelativeToolTip": "BHD_BTTL\\Views\\Shared\\Components\\Products\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T12:16:27.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

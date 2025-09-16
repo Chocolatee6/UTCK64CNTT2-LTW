@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="/css/test.css">
+</head>
+<body>
+    <div class="layout">
+
+        <!-- Top Navigation -->
+        <partial name="TopNav" />
+
+        <!-- Sidebar -->
+		<partial name="SideBar" />
+
+        <!-- Main Content -->
+        <main class="main">
+			@RenderBody()
+		</main>
+
+        <!-- Footer -->
+		<partial name="Footer" />
+
+    </div>
+</body>
+</html>

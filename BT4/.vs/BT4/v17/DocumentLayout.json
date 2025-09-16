@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\bt4\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\bt4\\views\\shared\\_adminsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|solutionrelative:views\\shared\\_adminsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\bt4\\views\\shared\\_adminfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|solutionrelative:views\\shared\\_adminfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\bt4\\views\\shared\\_adminscripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|solutionrelative:views\\shared\\_adminscripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\bt4\\controllers\\admincontroller.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|solutionrelative:controllers\\admincontroller.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\bt4\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\bt4\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|solutionrelative:views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\bt4\\controllers\\mynewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|solutionrelative:controllers\\mynewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\bt4\\views\\mynew\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|solutionrelative:views\\mynew\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\bt4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\bt4\\views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|solutionrelative:views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\bt4\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|solutionrelative:views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\bt4\\views\\shared\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5DFBAD8-CBB4-4CB3-AA7C-BAEC8E9328CB}|BT4.csproj|solutionrelative:views\\shared\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T09:50:27.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Controllers\\AdminController.cs.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Controllers\\AdminController.cs.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T09:49:54.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_AdminScripts.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Shared\\_AdminScripts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminScripts.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Shared\\_AdminScripts.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminScripts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T09:49:07.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminFooter.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Shared\\_AdminFooter.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminFooter.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Shared\\_AdminFooter.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminFooter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T09:48:42.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AdminSidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Shared\\_AdminSidebar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminSidebar.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Shared\\_AdminSidebar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminSidebar.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T09:48:15.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T09:47:06.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\MyNew\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\MyNew\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\MyNew\\Index.cshtml",
+              "RelativeToolTip": "Views\\MyNew\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T09:30:05.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyNewController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Controllers\\MyNewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MyNewController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Controllers\\MyNewController.cs",
+              "RelativeToolTip": "Controllers\\MyNewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T09:29:27.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T09:28:55.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Main.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Shared\\Main.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Main.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Shared\\Main.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Main.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T09:25:38.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Footer.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T09:24:47.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Shared\\SideBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\SideBar.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Shared\\SideBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\SideBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T09:23:35.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\MyLayout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\BT4\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\MyLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T09:13:12.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+﻿@* Views/Shared/_AdminLayout.cshtml *@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewBag.Title - Admin</title>
+
+    <!-- Font Awesome (CDN) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+
+    <!-- AdminLTE CSS (CDN) -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/admin-lte@3.2/dist/css/adminlte.min.css" />
+
+    <!-- site CSS (nếu có) -->
+    <link rel="stylesheet" href="~/css/site.css" />
+    @RenderSection("Styles", required: false)
+</head>
+<body class="hold-transition sidebar-mini layout-fixed">
+    <div class="wrapper">
+
+        <!-- header partial -->
+        <partial name="_AdminHeader" />
+
+        <!-- sidebar partial -->
+        <partial name="_AdminSidebar" />
+
+        <!-- Content wrapper -->
+        <div class="content-wrapper">
+            <section class="content-header">
+                <div class="container-fluid">
+                    <h1>@ViewBag.Title</h1>
+                </div>
+            </section>
+
+            <section class="content">
+                @RenderBody()
+            </section>
+        </div>
+
+        <!-- footer partial -->
+        <partial name="_AdminFooter" />
+
+        <!-- control sidebar (optional AdminLTE) -->
+        <aside class="control-sidebar control-sidebar-dark"></aside>
+    </div>
+
+    <!-- scripts partial -->
+    <partial name="_AdminScripts" />
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
