@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\Day9Lab\\DataBaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A333EA9-5D88-4808-AD29-925383341EB4}|DataBaseFirst.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\day9lab\\databasefirst\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A333EA9-5D88-4808-AD29-925383341EB4}|DataBaseFirst.csproj|solutionrelative:controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A333EA9-5D88-4808-AD29-925383341EB4}|DataBaseFirst.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\day9lab\\databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A333EA9-5D88-4808-AD29-925383341EB4}|DataBaseFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A333EA9-5D88-4808-AD29-925383341EB4}|DataBaseFirst.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\day9lab\\databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A333EA9-5D88-4808-AD29-925383341EB4}|DataBaseFirst.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A333EA9-5D88-4808-AD29-925383341EB4}|DataBaseFirst.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\day9lab\\databasefirst\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A333EA9-5D88-4808-AD29-925383341EB4}|DataBaseFirst.csproj|solutionrelative:controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A333EA9-5D88-4808-AD29-925383341EB4}|DataBaseFirst.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\day9lab\\databasefirst\\models\\day9labcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A333EA9-5D88-4808-AD29-925383341EB4}|DataBaseFirst.csproj|solutionrelative:models\\day9labcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoaiSanPhamsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\Day9Lab\\DataBaseFirst\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoaiSanPhamsController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\Day9Lab\\DataBaseFirst\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeToolTip": "Controllers\\LoaiSanPhamsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T04:18:09.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\Day9Lab\\DataBaseFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\Day9Lab\\DataBaseFirst\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T04:10:05.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\Day9Lab\\DataBaseFirst\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SanPhamsController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\Day9Lab\\DataBaseFirst\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "Controllers\\SanPhamsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T04:14:42.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Day9LabContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\Day9Lab\\DataBaseFirst\\Models\\Day9LabContext.cs",
+              "RelativeDocumentMoniker": "Models\\Day9LabContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\Day9Lab\\DataBaseFirst\\Models\\Day9LabContext.cs",
+              "RelativeToolTip": "Models\\Day9LabContext.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAUwHUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T04:13:41.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\Day9Lab\\DataBaseFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\Day9Lab\\DataBaseFirst\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T04:09:06.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
