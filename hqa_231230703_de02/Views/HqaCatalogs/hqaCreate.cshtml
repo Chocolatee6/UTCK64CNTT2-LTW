@@ -1,0 +1,58 @@
+﻿@model hqa_231230703_de02.Models.HqaCatalog
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>HqaCatalog</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="hqaCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="HqaId" class="control-label"></label>
+                <input asp-for="HqaId" class="form-control" />
+                <span asp-validation-for="HqaId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HqaCateName" class="control-label"></label>
+                <input asp-for="HqaCateName" class="form-control" />
+                <span asp-validation-for="HqaCateName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HqaCatePrice" class="control-label"></label>
+                <input asp-for="HqaCatePrice" class="form-control" />
+                <span asp-validation-for="HqaCatePrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HqaCateQty" class="control-label"></label>
+                <input asp-for="HqaCateQty" class="form-control" />
+                <span asp-validation-for="HqaCateQty" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HqaPicture" class="control-label"></label>
+                <input asp-for="HqaPicture" class="form-control" />
+                <span asp-validation-for="HqaPicture" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HqaCateActive" class="control-label"></label>
+                <input asp-for="HqaCateActive" class="form-control" />
+                <span asp-validation-for="HqaCateActive" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="hqaIndex">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

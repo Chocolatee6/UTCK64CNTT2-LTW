@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\hqa_231230703_de02\\views\\hqacatalogs\\hqaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|solutionrelative:views\\hqacatalogs\\hqaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\hqa_231230703_de02\\views\\hqacatalogs\\hqacreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|solutionrelative:views\\hqacatalogs\\hqacreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\hqa_231230703_de02\\models\\hqacatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|solutionrelative:models\\hqacatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\hqa_231230703_de02\\data\\hoangquocanh231230703de02context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|solutionrelative:data\\hoangquocanh231230703de02context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\hqa_231230703_de02\\views\\hqacatalogs\\hqadelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|solutionrelative:views\\hqacatalogs\\hqadelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\hqa_231230703_de02\\views\\hqacatalogs\\hqadetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|solutionrelative:views\\hqacatalogs\\hqadetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\hqa_231230703_de02\\views\\hqacatalogs\\hqaedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|solutionrelative:views\\hqacatalogs\\hqaedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\hqa_231230703_de02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\hqa_231230703_de02\\views\\shared\\_hqalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|solutionrelative:views\\shared\\_hqalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\hqa_231230703_de02\\controllers\\hqacatalogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|solutionrelative:controllers\\hqacatalogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\hqa_231230703_de02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\hqa_231230703_de02\\controllers\\hqahome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|solutionrelative:controllers\\hqahome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\hqa_231230703_de02\\views\\hqahome\\hqaabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|solutionrelative:views\\hqahome\\hqaabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\hqa_231230703_de02\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\hqa_231230703_de02\\views\\hqahome\\hqaprivacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|solutionrelative:views\\hqahome\\hqaprivacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\hqa_231230703_de02\\views\\hqahome\\hqaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F75E722C-6B5F-40FF-B4DE-C21A2C368F0E}|hqa_231230703_de02.csproj|solutionrelative:views\\hqahome\\hqaindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hqaDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\HqaCatalogs\\hqaDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\HqaCatalogs\\hqaDetails.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\HqaCatalogs\\hqaDetails.cshtml",
+              "RelativeToolTip": "Views\\HqaCatalogs\\hqaDetails.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T04:03:10.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hqaEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\HqaCatalogs\\hqaEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\HqaCatalogs\\hqaEdit.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\HqaCatalogs\\hqaEdit.cshtml",
+              "RelativeToolTip": "Views\\HqaCatalogs\\hqaEdit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T04:02:56.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hqaIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\HqaCatalogs\\hqaIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\HqaCatalogs\\hqaIndex.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\HqaCatalogs\\hqaIndex.cshtml",
+              "RelativeToolTip": "Views\\HqaCatalogs\\hqaIndex.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T03:41:45.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:05:37.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_HqaLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\Shared\\_HqaLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_HqaLayout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\Shared\\_HqaLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_HqaLayout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T03:04:23.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HqaCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Models\\HqaCatalog.cs",
+              "RelativeDocumentMoniker": "Models\\HqaCatalog.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Models\\HqaCatalog.cs",
+              "RelativeToolTip": "Models\\HqaCatalog.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:56:51.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hqaCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\HqaCatalogs\\hqaCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\HqaCatalogs\\hqaCreate.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\HqaCatalogs\\hqaCreate.cshtml",
+              "RelativeToolTip": "Views\\HqaCatalogs\\hqaCreate.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T03:43:30.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoangQuocAnh231230703De02Context.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Data\\HoangQuocAnh231230703De02Context.cs",
+              "RelativeDocumentMoniker": "Data\\HoangQuocAnh231230703De02Context.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Data\\HoangQuocAnh231230703De02Context.cs",
+              "RelativeToolTip": "Data\\HoangQuocAnh231230703De02Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:19:13.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hqaDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\HqaCatalogs\\hqaDelete.cshtml",
+              "RelativeDocumentMoniker": "Views\\HqaCatalogs\\hqaDelete.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\HqaCatalogs\\hqaDelete.cshtml",
+              "RelativeToolTip": "Views\\HqaCatalogs\\hqaDelete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T04:03:27.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HqaCatalogsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Controllers\\HqaCatalogsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HqaCatalogsController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Controllers\\HqaCatalogsController.cs",
+              "RelativeToolTip": "Controllers\\HqaCatalogsController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAADwv5UAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:24:07.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T03:09:35.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "hqaAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\hqaHome\\hqaAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\hqaHome\\hqaAbout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\hqaHome\\hqaAbout.cshtml",
+              "RelativeToolTip": "Views\\hqaHome\\hqaAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T03:00:48.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "hqaIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\hqaHome\\hqaIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\hqaHome\\hqaIndex.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\hqaHome\\hqaIndex.cshtml",
+              "RelativeToolTip": "Views\\hqaHome\\hqaIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T03:03:40.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "hqaHome.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Controllers\\hqaHome.cs",
+              "RelativeDocumentMoniker": "Controllers\\hqaHome.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Controllers\\hqaHome.cs",
+              "RelativeToolTip": "Controllers\\hqaHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T02:59:39.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "hqaPrivacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\hqaHome\\hqaPrivacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\hqaHome\\hqaPrivacy.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\hqaHome\\hqaPrivacy.cshtml",
+              "RelativeToolTip": "Views\\hqaHome\\hqaPrivacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T03:04:08.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\hqa_231230703_de02\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T02:59:05.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿@model hqa_231230703_de02.Models.HqaCatalog
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>HqaCatalog</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.HqaCateName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HqaCateName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.HqaCatePrice)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HqaCatePrice)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.HqaCateQty)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HqaCateQty)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.HqaPicture)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HqaPicture)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.HqaCateActive)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HqaCateActive)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="hqaEdit" asp-route-id="@Model?.HqaId">Edit</a> |
+    <a asp-action="hqaIndex">Back to List</a>
+</div>

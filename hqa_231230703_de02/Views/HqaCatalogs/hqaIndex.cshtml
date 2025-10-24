@@ -1,0 +1,86 @@
+﻿@model IEnumerable<hqa_231230703_de02.Models.HqaCatalog>
+
+@{
+    ViewData["Title"] = "Danh sách Hqa Catalog"; // Đổi tên Title cho rõ ràng
+}
+
+<h1>Danh sách Sản phẩm</h1>
+
+<p>
+    <a asp-action="hqaCreate">Thêm mới</a>
+</p>
+<table class="table table-striped table-hover table-bordered">
+    <thead>
+        <tr >
+            <th>
+                @Html.DisplayNameFor(model => model.HqaId) 
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HqaCateName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HqaCatePrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HqaCateQty)
+            </th>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.HqaPicture)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model=>model.HqaCateActive)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ThanhTien)
+            </th>
+            
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HqaId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HqaCateName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HqaCatePrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HqaCateQty)
+                </td>
+
+                
+                
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.HqaPicture)
+                </td>
+
+                    
+                <td>
+                    @{
+                        
+                        string status = item.HqaCateActive.HasValue && item.HqaCateActive.Value ? "Active" : "Non-Active";
+                    }
+                    @status
+                </td>
+                <td>
+                    
+                    @Html.DisplayFor(modelItem => item.ThanhTien)
+                </td>
+
+                <td>
+                    <a asp-action="hqaEdit" asp-route-id="@item.HqaId">Sửa</a> |
+                    <a asp-action="hqaDetails" asp-route-id="@item.HqaId">Xem</a> |
+                    <a asp-action="hqaDelete" asp-route-id="@item.HqaId">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

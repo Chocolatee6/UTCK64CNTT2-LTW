@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "hqa_231230703_de01/1.0.0": {
+        "runtime": {
+          "hqa_231230703_de01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hqa_231230703_de01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
