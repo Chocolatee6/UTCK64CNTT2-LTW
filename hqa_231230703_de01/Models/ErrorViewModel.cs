@@ -1,9 +1,0 @@
-namespace hqa_231230703_de01.Models
-{
-    public class ErrorViewModel
-    {
-        public string? RequestId { get; set; }
-
-        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
-    }
-}
