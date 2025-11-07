@@ -1,0 +1,66 @@
+﻿/* Thiết lập cơ bản */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f7f9;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Header */
+.main-header {
+    background-color: #34495e;
+    color: white;
+    padding: 15px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+    .main-header h1 {
+        display: inline-block;
+        margin: 0;
+    }
+
+    .main-header nav {
+        float: right;
+        padding-top: 5px;
+    }
+
+    .main-header a {
+        color: #ecf0f1;
+        text-decoration: none;
+        margin-left: 15px;
+    }
+
+/* Nội dung chính */
+.main-content {
+    display: flex; /* Sử dụng Flexbox cho Sidebar và Body */
+    padding: 20px 0;
+    min-height: 70vh; /* Đảm bảo chiều cao tối thiểu */
+}
+
+.sidebar {
+    width: 25%;
+    padding: 15px;
+    background-color: #ffffff;
+    border-right: 1px solid #ddd;
+}
+
+.content-body {
+    width: 75%;
+    padding: 15px;
+    background-color: #ffffff;
+}
+
+/* Footer */
+.main-footer {
+    background-color: #bdc3c7;
+    padding: 10px 0;
+    text-align: center;
+    color: #34495e;
+    margin-top: 20px;
+}

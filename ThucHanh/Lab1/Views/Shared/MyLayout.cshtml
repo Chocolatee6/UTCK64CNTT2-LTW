@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - My Custom App</title>
+
+    <link rel="stylesheet" href="~/css/mylayout.css" asp-append-version="true" />
+</head>
+<body>
+    <!--Header-->
+    <partial name="MainHeader" />
+    
+    <div class="container main-content">
+        <aside class="sidebar">
+            <h3>Menu Phụ</h3>
+            <ul>
+                <li>Item 1</li>
+                <li>Item 2</li>
+            </ul>
+        </aside>
+
+        <main role="main" class="content-body">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="main-footer">
+        <div class="container">
+            &copy; @DateTime.Now.Year - My Custom App
+        </div>
+    </footer>
+
+    <script src="~/js/mylayout.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
