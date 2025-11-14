@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\lab1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|solutionrelative:views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\lab1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\lab1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\lab1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\lab1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\lab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\lab1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\lab1\\views\\shared\\mainheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|solutionrelative:views\\shared\\mainheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\lab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\lab1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|solutionrelative:views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\lab1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,22 +51,6 @@
       "RelativeMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\lab1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\lab1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\lab1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\lab1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\lab1\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07B0CDC9-1217-48A3-9CF6-B1A93D377B42}|Lab1.csproj|solutionrelative:models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,11 +66,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAwwBIAAADKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T02:45:45.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\Student\\Create.cshtml*",
+              "RelativeToolTip": "Views\\Student\\Create.cshtml*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwFIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T03:13:27.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwD0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T02:48:47.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T02:53:42.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MainHeader.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\Shared\\MainHeader.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\MainHeader.cshtml",
@@ -79,20 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T03:53:07.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "mylayout.js",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\wwwroot\\js\\mylayout.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\mylayout.js",
@@ -100,12 +143,23 @@
               "RelativeToolTip": "wwwroot\\js\\mylayout.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-11-07T03:52:17.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T03:52:17.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T03:53:07.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "mylayout.css",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\wwwroot\\css\\mylayout.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\mylayout.css",
@@ -113,25 +167,24 @@
               "RelativeToolTip": "wwwroot\\css\\mylayout.css",
               "ViewState": "AgIAABoAAAAAAAAAAAAuwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-07T03:51:12.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T03:51:12.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-07T03:46:45.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "MyLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\Shared\\MyLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\MyLayout.cshtml",
@@ -144,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -152,64 +205,24 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T03:37:31.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T03:37:31.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\Student\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\Student\\Create.cshtml",
-              "RelativeToolTip": "Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAApAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T03:13:27.665Z",
+              "WhenOpened": "2025-11-13T07:03:26.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T02:53:42.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAgwCAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T02:48:47.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Models\\Student.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Models\\Student.cs",
-              "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T02:45:45.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Branch.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Models\\Branch.cs",
               "RelativeDocumentMoniker": "Models\\Branch.cs",
@@ -217,12 +230,11 @@
               "RelativeToolTip": "Models\\Branch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T02:45:08.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T02:45:08.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Gender.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\Lab1\\Models\\Gender.cs",
               "RelativeDocumentMoniker": "Models\\Gender.cs",
@@ -230,8 +242,7 @@
               "RelativeToolTip": "Models\\Gender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T02:44:07.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T02:44:07.58Z"
             }
           ]
         }
