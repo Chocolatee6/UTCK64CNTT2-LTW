@@ -12,11 +12,32 @@ namespace MyWebApp.Controllers
         {
             db = context;
         }
-        public IActionResult Index()
+        public IActionResult Index(int? mid)
         {
-            var learners = db.Learners.Include(m => m.Major).ToList();
+            if (mid == null)
+            {
+                var learners = db.Learners.Include(m => m.Major).ToList();
+                return View(learners);
+            }
+            else
+            {
+                var learners = db.Learners
+                    .Where(l => l.MajorID == mid)
+                    .Include(m => m.Major)
+                    .ToList();
+                return View(learners);
+            }
+        }
+
+        public IActionResult LearnerByMajorID(int mid)
+        {
+            var learners = db.Learners
+                .Where(l => l.MajorID == mid)
+                .Include(m => m.Major)
+                .ToList();
             return View(learners);
         }
+
         public IActionResult Create()
         {
             ViewBag.MajorID = new SelectList(db.Majors, "MajorID", "MajorName");
