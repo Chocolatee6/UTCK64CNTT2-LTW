@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|solutionrelative:views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\mywebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\mywebapp\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|solutionrelative:controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\mywebapp\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|solutionrelative:views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\mywebapp\\views\\learner\\learnertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|solutionrelative:views\\learner\\learnertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\mywebapp\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|solutionrelative:controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\mywebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\mywebapp\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\mywebapp\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|solutionrelative:views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\mywebapp\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|solutionrelative:views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31BA2CD2-0141-4008-B0F6-F99B8DE252F4}|MyWebApp.csproj|c:\\users\\admin\\documents\\hki 2025-2026\\ltw\\utck64cntt2-ltw\\thuchanh\\mywebapp\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -78,26 +78,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\MyWebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\MyWebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-15T03:28:00.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LearnerTable.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\MyWebApp\\Views\\Learner\\LearnerTable.cshtml",
               "RelativeDocumentMoniker": "Views\\Learner\\LearnerTable.cshtml",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\MyWebApp\\Views\\Learner\\LearnerTable.cshtml",
               "RelativeToolTip": "Views\\Learner\\LearnerTable.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-15T03:22:25.964Z",
               "EditorCaption": ""
@@ -110,14 +110,14 @@
               "RelativeDocumentMoniker": "Views\\Learner\\Index.cshtml",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\MyWebApp\\Views\\Learner\\Index.cshtml",
               "RelativeToolTip": "Views\\Learner\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-14T07:44:48.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "RenderMajor.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\MyWebApp\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
@@ -125,25 +125,24 @@
               "RelativeToolTip": "Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T03:06:55.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T03:06:55.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "LearnerController.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\MyWebApp\\Controllers\\LearnerController.cs",
               "RelativeDocumentMoniker": "Controllers\\LearnerController.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\MyWebApp\\Controllers\\LearnerController.cs",
               "RelativeToolTip": "Controllers\\LearnerController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwB8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwJ8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T07:42:15.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MajorViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\MyWebApp\\ViewComponents\\MajorViewComponent.cs",
               "RelativeDocumentMoniker": "ViewComponents\\MajorViewComponent.cs",
@@ -151,12 +150,11 @@
               "RelativeToolTip": "ViewComponents\\MajorViewComponent.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T03:02:10.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T03:02:10.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\MyWebApp\\Views\\Learner\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Learner\\Delete.cshtml",
@@ -164,20 +162,20 @@
               "RelativeToolTip": "Views\\Learner\\Delete.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T08:19:06.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T08:19:06.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\MyWebApp\\Views\\Learner\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Learner\\Edit.cshtml",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\HKI 2025-2026\\LTW\\UTCK64CNTT2-LTW\\ThucHanh\\MyWebApp\\Views\\Learner\\Edit.cshtml",
               "RelativeToolTip": "Views\\Learner\\Edit.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T08:15:34.724Z"
+              "WhenOpened": "2025-11-14T08:15:34.724Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
